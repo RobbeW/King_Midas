@@ -1,33 +1,5 @@
- 
+# Klassieke Talen & Game Design - King Midas
 
+Midas was een rijke koning die heerste over Phrygië. Dionysos stond hem toe een wens te doen. Midas wenste dat alles wat hij aanraakte, in goud zou veranderen! Wat eens wens, toch? ... Een steen die hij van de grond opraapte, veranderde meteen in een klompje goud! Maar wanneer Midas honger had en een druif nam uit zijn nieuwe gouden fruitschaal, veranderde die ook in goud. Toen zijn dochter binnenkwam, veranderde ze in een gouden standbeeld wanneer hij haar had aangeraakt. Midas ging wanhopig naar Dionysos en smeekte hem om zijn wens weer om te keren. De god lachte hardop en zei dat hij zijn handen moest wassen in de rivier Pactolus om zijn wens ongedaan te maken en zijn dochter te redden. Help jij koning Midas?
 
-> Open this page at [https://robbew.github.io/king_midas/](https://robbew.github.io/king_midas/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/robbew/king_midas** and import
-
-## Edit this project ![Build status badge](https://github.com/robbew/king_midas/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/robbew/king_midas** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/robbew/king_midas/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+[Klik hier of op de afbeelding hierboven om het spel te spelen!](https://robbew.github.io/King_Midas/)
